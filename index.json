@@ -7,11 +7,11 @@
         },
         {
             "name": "Song Names",
-            "url": "https://raw.githubusercontent.com/drew-harris/smurf-mock-content/main/songnames.txt"
+            "path": "songnames.txt"
         },
         {
             "name": "Artist Names",
-            "url": "https://raw.githubusercontent.com/drew-harris/smurf-mock-content/main/artistnames.txt"
+            "path": "artistnames.txt"
         },
     ]
 }
