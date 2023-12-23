@@ -2,16 +2,16 @@
     "name": "Default",
     "lists": [
         {
-            "name": "First Names",
-            "url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt"
+            "name": "DJS",
+            "url": "https://raw.githubusercontent.com/drew-harris/smurf-mock-content/main/djnames.txt"
         },
         {
-            "name": "Last Names",
-            "path": "last-names.txt"
+            "name": "Song Names",
+            "url": "https://raw.githubusercontent.com/drew-harris/smurf-mock-content/main/songnames.txt"
         },
         {
-            "name": "Addresses",
-            "path": "addresses.txt"
-        }
+            "name": "Artist Names",
+            "url": "https://raw.githubusercontent.com/drew-harris/smurf-mock-content/main/artistnames.txt"
+        },
     ]
 }
